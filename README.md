@@ -1,2 +1,2 @@
-# Programming_learning_app
-This is a programming app that generates a quiz to help a person learn to program.
+# Computer_Science_learning_app
+This is a Computer Science app that generates quiz questions from an api.
